@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+	color: #3A3020;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: #F7B9BA;
+	padding: 20px;
+}
+h1 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color: #271515
+}
+h2 {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color: maroon
+}
+span {color: maroon;}
+body{
+	background-color: bisque;
+	margin: 50px;
+}
+a:link 
+{ 
+	color: saddlebrown;
+	background-color: beige;
+	padding: 5px;
+	line-height: 40px;
+	border: 2px solid saddlebrown;
+}
+a:hover
+{
+	background-color: #F7B9BA;
+}
+a:visited
+{
+	color: forestgreen
+}
+img{
+	height: 555px;
+}
